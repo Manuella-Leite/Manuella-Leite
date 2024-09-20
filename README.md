@@ -1,5 +1,4 @@
 
-![Snake animation](https://github.com/Manuella-Leite/Manuella-Leite/blob/output/github-contribution-grid-snake.svg)
 
 # 👋 Olá pessoal, bem-vindos ao meu portifólio no GuitHub 
 ## Meu nome é  Manuella, tenho 19 anos e moro em Ribeirão Preto/SP, sou estudante de programação na Alura, e estou sempre procurando oportinidades para aprender a cada dia.
